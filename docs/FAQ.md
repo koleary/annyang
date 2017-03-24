@@ -4,7 +4,7 @@
 - [Why does the browser repeatedly ask for permission to use the microphone?](#why-does-the-browser-repeatedly-ask-for-permission-to-use-the-microphone)
 - [What can I do to make speech recognition results return faster?](#what-can-i-do-to-make-speech-recognition-results-return-faster)
 - [How can I contribute to annyang's development?](#how-can-i-contribute-to-annyangs-development)
-- [Why does Speech Recognition repeatedly starts and stops?](#why-does-speech-recognition-repeatedly-starts-and-stops)
+- [Why does Speech Recognition repeatedly start and stop?](#why-does-speech-recognition-repeatedly-start-and-stop)
 - [Can annyang work offline?](#can-annyang-work-offline)
 - [Can annyang be used to capture the full text spoken by the user?](#can-annyang-be-used-to-capture-the-full-text-spoken-by-the-user)
 - [Can I detect when the user starts and stops speaking?](#can-i-detect-when-the-user-starts-and-stops-speaking)
@@ -128,7 +128,7 @@ Note that these settings are already the default if you are using HTTPS. If you 
 
 There are three main ways for you to help. Check out the [CONTRIBUTING](https://github.com/TalAter/annyang/blob/master/CONTRIBUTING.md) guide for more details.
 
-## Why does Speech Recognition repeatedly starts and stops?
+## Why does Speech Recognition repeatedly start and stop?
 
 The most common reason for this is because you have opened more than one tab or window that uses Speech Recognition in your browser at the same time (e.g. if you open annyang's homepage in one tab, and the Speech Recognition app you are developing in another).
 
